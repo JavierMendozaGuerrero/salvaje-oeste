@@ -25,6 +25,11 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 - **`SPACE`** → Disparar (un disparo cada 0.5 segundos)  
 
 ---
+## 🎬 Capturas del juego
+
+![Captura 1](imagenes/captura1.png)
+
+![Captura 2](imagenes/captura2.gif)
 
 ## 🎮 Dinámica del juego
 
