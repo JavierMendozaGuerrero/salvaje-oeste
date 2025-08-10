@@ -6,7 +6,7 @@ Un juego desarrollado en **Python** con la librería `pygame` donde encarnas a u
 
 ---
 
-## 📜 Descripción
+## Descripción
 
 Tienes **30 segundos** para eliminar tantos villanos como puedas y conseguir la máxima puntuación.  
 - **Villanos**: aumentan tu puntuación si los eliminas.  
@@ -16,7 +16,7 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 
 ---
 
-## 🕹️ Controles
+## Controles
 
 - **`D`** → Mover a la derecha  
 - **`A`** → Mover a la izquierda  
@@ -25,13 +25,13 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 - **`SPACE`** → Disparar (un disparo cada 0.5 segundos)  
 
 ---
-## 🎬 Capturas del juego
+## Capturas del juego
 
 ![Captura 1](imagenes/captura1.png)
 
 ![Captura 2](imagenes/captura2.gif)
 
-## 🎮 Dinámica del juego
+## Dinámica del juego
 
 - El sheriff comienza en el centro inferior de la pantalla.  
 - Villanos aparecen en posiciones aleatorias de la mitad superior.  
@@ -42,7 +42,7 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 - **430 líneas de código**
 - **11 funciones**
@@ -56,7 +56,7 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 
 ---
 
-## 🔊 Elementos especiales
+## Elementos especiales
 
 - Música del Salvaje Oeste durante la partida.  
 - Efecto de sonido al disparar.  
@@ -65,7 +65,7 @@ La dificultad aumenta con el tiempo ya que cada **5 segundos** se generan nuevos
 
 ---
 
-## 🏁 Condiciones de fin de partida
+## Condiciones de fin de partida
 
 - **Colisión** con villano o buitre → *Game Over*.
 - **Villano alcanza el borde inferior** → *Game Over*.
@@ -75,7 +75,7 @@ Para reiniciar: **pulsar Enter**.
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 1. Clonar este repositorio:
    ```bash
